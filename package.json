@@ -13,7 +13,7 @@
     "axios": "^0.21.1",
     "babel-jest": "^24.9.0",
     "craco-less": "^1.17.0",
-    "mapbox-gl": "^2.8.2",
+    "mapbox-gl": "^2.15.0",
     "multiselect-react-dropdown": "^1.6.11",
     "plotly.js": "^1.54.6",
     "rc-tween-one": "^2.7.3",
